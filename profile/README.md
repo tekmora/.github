@@ -1,5 +1,7 @@
 # Tekmora
 
+**Evidence before compute.**
+
 Open tools for building software with AI agents,
 where a claim counts only with evidence behind it.
 
