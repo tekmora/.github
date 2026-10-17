@@ -12,12 +12,7 @@ organisation's community server on Discord. It is the Contributor Covenant 3.0
 with the reporting path and the enforcement note filled in for Tekmora; the
 changes are listed at the end.
 
-**Status.** The section "Our Pledge" is proposed wording: the organisation's
-owner has not accepted it yet. Every other section applies.
-
 ## Our Pledge
-
-*Proposed wording, not yet accepted.*
 
 We pledge to make our community welcoming, safe, and equitable for all.
 
@@ -125,8 +120,7 @@ file `content/version/3/0/code_of_conduct.md` of
 [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)
 at commit `d379fc9491eebf313942b979dfc4ab3b0d11df78`:
 
-- A new title and an introduction naming the spaces it covers, and a status
-  note marking "Our Pledge" as proposed wording.
+- A new title and an introduction naming the spaces it covers.
 - The reporting placeholder is replaced by the reporting paths above.
 - The enforcement note is replaced by the sentence on people deciding every
   report.
