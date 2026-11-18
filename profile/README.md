@@ -15,6 +15,9 @@
   [![Conventional Commits](https://img.shields.io/badge/Commits-Conventional-8b5cf6?style=for-the-badge&logo=conventionalcommits&logoColor=white&labelColor=111a35)](https://www.conventionalcommits.org/en/v1.0.0/)
   <!-- 5 licence -->
   [![License](https://img.shields.io/badge/License-EUPL--1.2-3b82f6?style=for-the-badge&labelColor=111a35)](https://github.com/tekmora/.github/blob/main/LICENSE)
+  <!-- 6 support -->
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-8b5cf6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=111a35)](https://github.com/sponsors/lusoris)
+  [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-8b5cf6?style=for-the-badge&logo=kofi&logoColor=white&labelColor=111a35)](https://ko-fi.com/lusoris)
 
   **Evidence before compute.**
 
@@ -35,7 +38,8 @@ a command, a test or a measurement that anyone can run again.
 
 ### The name
 
-From Greek *tekmerion*, decisive proof. Said tek-MOH-ra.
+From Greek *tekmor* (Homeric *tekmor*): a set goal, and the sign that shows the
+way to it. Said *TEK-mo-ra*.
 
 ## At a glance
 
@@ -57,6 +61,11 @@ first release under its new name.
   [diallak](https://github.com/tekmora/diallak/security/advisories/new)).
 - **Code of conduct:** all community spaces follow the
   [Code of Conduct](https://github.com/tekmora/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## Support
+
+Sponsor the work on [GitHub Sponsors](https://github.com/sponsors/lusoris) or
+[Ko-fi](https://ko-fi.com/lusoris), any amount; no support or priority is sold.
 
 ## Upstream and licence
 

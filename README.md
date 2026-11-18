@@ -15,6 +15,9 @@
   [![Conventional Commits](https://img.shields.io/badge/Commits-Conventional-8b5cf6?style=for-the-badge&logo=conventionalcommits&logoColor=white&labelColor=111a35)](https://www.conventionalcommits.org/en/v1.0.0/)
   <!-- 5 licence -->
   [![License](https://img.shields.io/badge/License-EUPL--1.2-3b82f6?style=for-the-badge&labelColor=111a35)](https://github.com/tekmora/.github/blob/main/LICENSE)
+  <!-- 6 support -->
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-8b5cf6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=111a35)](https://github.com/sponsors/lusoris)
+  [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-8b5cf6?style=for-the-badge&logo=kofi&logoColor=white&labelColor=111a35)](https://ko-fi.com/lusoris)
 
   **Organisation profile and default community files for Tekmora**
 
@@ -26,8 +29,9 @@ This repository holds the Tekmora organisation profile and the community files
 that GitHub applies to every repository in the organisation that has none of
 its own.
 
-The name Tekmora comes from Greek *tekmerion*, decisive proof. Said
-tek-MOH-ra. The profile explains it in full.
+The name Tekmora comes from Greek *tekmor* (Homeric *tekmor*): a set goal, and
+the sign that shows the way to it. Said *TEK-mo-ra*. The profile explains it in
+full.
 
 ## At a glance
 
@@ -35,12 +39,18 @@ tek-MOH-ra. The profile explains it in full.
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The organisation profile shown on the organisation page. |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | The default Code of Conduct for every repository without its own. |
+| [`.github/FUNDING.yml`](.github/FUNDING.yml) | The default sponsor button for every repository without its own. |
 | [`LICENSE`](LICENSE) | EUPL-1.2, the licence of this repository. |
 
 ## Contribute
 
 Changes come as pull requests against `main`. Questions about a project go to
 that project's Discussions; the profile links each one.
+
+## Support
+
+Sponsor the work on [GitHub Sponsors](https://github.com/sponsors/lusoris) or
+[Ko-fi](https://ko-fi.com/lusoris), any amount; no support or priority is sold.
 
 ## Upstream and licence
 
