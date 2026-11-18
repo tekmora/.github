@@ -38,8 +38,8 @@ a command, a test or a measurement that anyone can run again.
 
 ### The name
 
-From Greek *tekmor* (Homeric *tekmor*): a set goal, and the sign that shows the
-way to it. Said *TEK-mo-ra*.
+From Greek *tekmor*: a set goal, and the sign that shows the way to it. Said
+*TEK-mo-ra*.
 
 ## At a glance
 

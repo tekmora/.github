@@ -29,9 +29,8 @@ This repository holds the Tekmora organisation profile and the community files
 that GitHub applies to every repository in the organisation that has none of
 its own.
 
-The name Tekmora comes from Greek *tekmor* (Homeric *tekmor*): a set goal, and
-the sign that shows the way to it. Said *TEK-mo-ra*. The profile explains it in
-full.
+The name Tekmora comes from Greek *tekmor*: a set goal, and the sign that shows
+the way to it. Said *TEK-mo-ra*. The profile explains it in full.
 
 ## At a glance
 
