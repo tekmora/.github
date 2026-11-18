@@ -32,9 +32,12 @@ community bot today, with more projects on their way here.
 
 ## Why Tekmora
 
-Agents make claims fast: a test passes, a change is safe, a task is done. Each
-Tekmora tool is built so that such a claim counts only with evidence behind it:
-a command, a test or a measurement that anyone can run again.
+Agents make claims fast: a test passes, a change is safe, a task is done.
+Tekmora tools aim to tie each such claim to evidence that anyone can check
+again. Epitrop records every job event and side-effect claim in a signed event
+log ([`internal/eventlog`](https://github.com/tekmora/epitrop/tree/main/internal/eventlog)),
+and Diallak answers with cited excerpts from the project documentation
+([ADR-0003](https://github.com/tekmora/diallak/blob/main/docs/adr/0003-answer-pipeline.md)).
 
 ### The name
 
